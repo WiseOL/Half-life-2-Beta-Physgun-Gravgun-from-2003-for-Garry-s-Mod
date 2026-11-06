@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/w_physgun_beta_baku/w_physics"
+	"$selfillum" "0"
+}

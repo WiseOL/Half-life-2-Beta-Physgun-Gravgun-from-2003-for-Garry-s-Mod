@@ -1,0 +1,6 @@
+{
+  "title": "Full Client Custom Model Physgun and Gravity Gun Replacement",
+  "type": "weapon",
+  "tags": ["fun", "roleplay"],
+  "ignore": ["*.png", "*.tga", "*.psd", "*.bak"]
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/weapons/v_physgun_beta_baku/physgun_sheet"
+    "$bumpmap" "models/weapons/v_physgun_beta_baku/physgun_sheet_normal"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	"15"
+	"$phongfresnelranges"	"[0.1 1 1]"
+	//"$selfillum" "1"
+}
